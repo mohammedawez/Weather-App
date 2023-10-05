@@ -1,0 +1,17 @@
+
+ API link :-    https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+
+weather api key(awez    :- 81558640bc898e09a0eb21cd44a66c62
+
+
+
+ how to use it both (api key&link):-    https://api.openweathermap.org/data/2.5/weather?q=bellary&appid=81558640bc898e09a0eb21cd44a66c62
+
+
+
+
+ 1) api key :- it helps to link you apllication with api provide  by operation
+
+
+ 
+
